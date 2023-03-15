@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/silvanorm/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/silvanorm/product-preview-card-component-main)
+- Live Site URL: [Github Pages](https://silvanorm.github.io/product-preview-card-component-main/)
 
 ## My process
 
